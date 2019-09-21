@@ -3,7 +3,7 @@
     "gulp": "3.9.1",
     "gulp-notify": "2.2.0",
     "gulp-postcss": "6.4.0",
-    "image-size": "0.5.5",
+    "image-size": "0.8.1",
     "postcss-easy-import": "1.0.1",
     "postcss-mixins": "5.4.1",
     "postcss-nested": "1.0.1",
