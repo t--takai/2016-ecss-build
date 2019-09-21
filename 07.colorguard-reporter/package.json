@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^6.2.0",
-    "colorguard": "^1.2.0",
-    "postcss-reporter": "^3.0.0",
-    "postcss-colorguard-formatter": "^1.0.2"
+    "gulp": "3.9.1",
+    "gulp-postcss": "6.4.0",
+    "colorguard": "1.2.1",
+    "postcss-reporter": "3.0.0",
+    "postcss-colorguard-formatter": "1.0.2"
   }
 }
